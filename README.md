@@ -1,3 +1,3 @@
-# Kokoa Clone 2021.06 Update
+# Kokoa Clone 2021.06
 
-HTML & CSS are so much fun!
+Tom & Jerry's Talk
