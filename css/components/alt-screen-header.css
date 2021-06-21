@@ -5,6 +5,12 @@
   justify-content: center;
   align-items: center;
   margin-bottom: 15px;
+  top: 0;
+  position: fixed;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: white;
+  z-index: 1;
 }
 
 .alt-header__column {
@@ -32,4 +38,14 @@
 
 .alt-header__column span:last-child {
   margin-left: 20px;
+}
+
+.main-screen__alt-upper {
+  padding: 0px var(--horizontal-space);
+  margin-top: 110px;
+}
+
+.main-screen__alt-lower {
+  padding: 0px var(--horizontal-space);
+  margin-bottom: 90px;
 }
